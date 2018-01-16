@@ -1,6 +1,6 @@
-public javaSourceFile{
+public class javaSourceFile{
   public static void main(String[] args){
-    print("Hello World");
+    System.out.print("Hello World");
   }
 
 }
